@@ -1,4 +1,5 @@
 @extends('layouts.master')
+
 @section('content_header')
 <h1>
 	Coba 2
@@ -9,6 +10,7 @@
 	<li class="active">Coba 2</li>
 </ol>
 @endsection
+
 @section('content')
 Halo ini coba 2
 @endsection
